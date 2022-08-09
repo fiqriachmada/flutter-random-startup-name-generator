@@ -1,4 +1,4 @@
-# example_app
+# flutter-random-startup-name-generator
 
 A new Flutter project.
 
