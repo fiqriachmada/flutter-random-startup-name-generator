@@ -17,20 +17,21 @@ samples, guidance on mobile development, and a full API reference.
 
 # [Screenshot] flutter-random-startup-name-generator
 
-### 1
 
-<h1 align="center">1</h1>
+
+<h2 align="center">1</h2>
+
 <p align="center" width="100%">
     <img width="33%" src="./assets/images/1.jpeg">
 </p>
 
-### 2
+<h2 align="center">2</h2>
 
 <p align="center" width="100%">
     <img width="33%" src="./assets/images/2.jpeg">
 </p>
 
-### 3
+<h2 align="center">3</h2>
 
 <p align="center" width="100%">
     <img width="33%" src="./assets/images/3.jpeg">
