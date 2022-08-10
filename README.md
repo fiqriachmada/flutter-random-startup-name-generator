@@ -16,4 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 # flutter-random-startup-name-generator
 
-![Screenshot](./assets/images/1.jpg)
+![Screenshot](./assets/images/1.jpeg)
