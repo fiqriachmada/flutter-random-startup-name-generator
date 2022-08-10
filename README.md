@@ -17,3 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 # flutter-random-startup-name-generator
 
 ![Screenshot](./assets/images/1.jpeg)
+![Screenshot](./assets/images/2.jpeg)
+![Screenshot](./assets/images/3.jpeg)
