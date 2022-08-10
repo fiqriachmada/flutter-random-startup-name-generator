@@ -19,3 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 ![Screenshot](./assets/images/1.jpeg?style=centerme)
 ![Screenshot](./assets/images/2.jpeg)
 ![Screenshot](./assets/images/3.jpeg)
+
+<p align="center" width="100%">
+    <img width="33%" src="./assets/images/1.jpeg">
+</p>
