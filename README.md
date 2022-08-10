@@ -19,6 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 ### 1
 
 <p align="center" width="100%">
+<h1>1</h1>
     <img width="33%" src="./assets/images/1.jpeg">
 </p>
 
