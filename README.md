@@ -14,12 +14,22 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# flutter-random-startup-name-generator
 
-![Screenshot](./assets/images/1.jpeg?style=centerme)
-![Screenshot](./assets/images/2.jpeg)
-![Screenshot](./assets/images/3.jpeg)
+# [Screenshot] flutter-random-startup-name-generator
+### 1
 
 <p align="center" width="100%">
     <img width="33%" src="./assets/images/1.jpeg">
+</p>
+
+### 2
+
+<p align="center" width="100%">
+    <img width="33%" src="./assets/images/2.jpeg">
+</p>
+
+### 3
+
+<p align="center" width="100%">
+    <img width="33%" src="./assets/images/3.jpeg">
 </p>
